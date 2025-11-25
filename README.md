@@ -18,6 +18,12 @@ If you have any questions about this work, please contact **Xingming Xu** using 
 
 Please see our paper.
 
+# Dataset Notice
+The dataset file data/filtered_dataset.json is derived from the Chart-to-Text dataset by vis-nlp, which is licensed under the GNU General Public License v3.0 (GPL-3.0). That file is a modified version of that dataset.
+Original source: https://github.com/vis-nlp/Chart-to-text
+
+See DATA_LICENSE for the full text of the GPL-3.0 license.
+
 # References
 
 We used the following dataset:
