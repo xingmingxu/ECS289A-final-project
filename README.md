@@ -3,7 +3,7 @@ ECS289A Final project for Nathan Kotni, Qikai Ma, Yinuo Tang, Xingming Xu.
 
 # Setup
 
-Ideally, use Google Colab with access to L4/A100 GPUs to run this project (estimated time: 30 mins on A100 GPU for full fine tuning + eval on A100). 
+Ideally, use Google Colab with access to L4/A100 GPUs to run this project (estimated time: 30 mins on A100 GPU for full fine tuning + eval on A100). Please run with high RAM and on the A100 in Google Colab. It will not run with a less well-performing GPU. Both notebooks will be able to be run with minimal user prompting, just press run in Colab and everything should run automatically.
 
 The details to run each notebook, baseline.ipynb, and with_lora.ipynb, are both contained in the respective notebooks.
 
