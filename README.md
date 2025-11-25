@@ -12,7 +12,7 @@ model_with_lora.ipynb contains the evaluation of both our fine-tuned model, and 
 Additionally, [filtered_dataset.json](https://github.com/xingmingxu/ECS289A-final-project/blob/main/filtered_dataset.json) is our curated dataset, obtained from [Chart-to-text](https://github.com/vis-nlp/Chart-to-text/tree/main/statista_dataset/dataset) which we have repurposed for our project. The script that we used to obtain that json file is located at filterCaptions.py for your reference.
 
 # Contact
-If you have any questions about this work, please contact **Xingming Xu** using the following email address: xmxu at ucdavis.edu (other authors please add your info here). 
+If you have any questions about this work, please contact us at any of the following email addresses: nkotni, qkma, fptang, xmxu at ucdavis.edu. 
 
 # Models & Evaluation
 
