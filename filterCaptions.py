@@ -38,7 +38,7 @@ OUTPUT_FILE = "filtered_dataset.json"
 
 MIN_LEN = 20
 MAX_LEN = 350
-QUALITY_THRESHOLD = 3
+QUALITY_THRESHOLD = 4 # this is the threshold we used for "quality" of caption descriptiveness
 BATCH_SIZE = 20
 
 ############################################
