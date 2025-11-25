@@ -7,7 +7,7 @@ Ideally, use Google Colab with access to L4/A100 GPUs to run this project (estim
 
 The details to run each notebook, baseline.ipynb, and with_lora.ipynb, are both contained in the respective notebooks.
 
-Baseline.ipynb is the evaluation of our baseline model on our metrics, and wiht_lora.ipynb is the evaluation of our fine-tuned model on our metrics.
+model_with_lora.ipynb contains the evaluation of both our fine-tuned model, and the naive method on our metrics.
 
 Additionally, [filtered_dataset.json](https://github.com/xingmingxu/ECS289A-final-project/blob/main/filtered_dataset.json) is our curated dataset, obtained from [Chart-to-text](https://github.com/vis-nlp/Chart-to-text/tree/main/statista_dataset/dataset) which we have repurposed for our project. The script that we used to obtain that json file is located at filterCaptions.py for your reference.
 
